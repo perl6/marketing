@@ -1,0 +1,114 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/student/Downloads/marketing-master/New-Flyers/All-Your-Cores/Document fonts/AdobeFnt24.lst
+FileLength:2253
+FileModTime:758504842
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Bold
+FamilyName:Muli
+StyleName:Bold
+MenuName:Muli
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Muli Bold
+WritingScript:Roman
+OutlineFileName:/Users/student/Downloads/marketing-master/New-Flyers/All-Your-Cores/Document fonts/Muli-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:93816
+FileModTime:595555751
+NameArray:0,Mac,4,Muli Bold
+NameArray:0,Win,1,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-Regular
+FamilyName:Muli
+StyleName:Regular
+MenuName:Muli
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Muli Regular
+WritingScript:Roman
+OutlineFileName:/Users/student/Downloads/marketing-master/New-Flyers/All-Your-Cores/Document fonts/Muli-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:94320
+FileModTime:595555751
+NameArray:0,Mac,4,Muli Regular
+NameArray:0,Win,1,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Muli-SemiBold
+FamilyName:Muli
+StyleName:SemiBold
+MenuName:Muli SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Muli SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/student/Downloads/marketing-master/New-Flyers/All-Your-Cores/Document fonts/Muli-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:93672
+FileModTime:595555751
+NameArray:0,Mac,4,Muli SemiBold
+NameArray:0,Win,1,Muli SemiBold
+NameArray:0,Win,16,Muli
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuMono-Regular
+FamilyName:Ubuntu Mono
+StyleName:Regular
+MenuName:Ubuntu Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono
+WritingScript:Roman
+OutlineFileName:/Users/student/Downloads/marketing-master/New-Flyers/All-Your-Cores/Document fonts/UbuntuMono-R.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:205748
+FileModTime:595555751
+NameArray:0,Mac,18,Ubuntu Mono
+NameArray:0,Mac,4,Ubuntu Mono
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
